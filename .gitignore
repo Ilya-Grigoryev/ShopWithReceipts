@@ -1,0 +1,13 @@
+
+# QrCodeGen Library
+qrcodegen.cpp
+qrcodegen.hpp
+
+# idea dir
+.idea/
+
+# CMake
+cmake-build-*/
+
+# mac sys-file
+.DS_Store
